@@ -15,8 +15,6 @@ import plotly.express as px
 st.title(" DNA Nucleotide Count Web App")
 
 st.write("""
-# DNA Nucleotide Count Web App
-
 This simple app counts the nucleotide composition of DNA!
 
 
