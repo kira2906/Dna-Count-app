@@ -12,7 +12,7 @@ import plotly.express as px
 # Page Title
 ######################
 
-
+st.title(" DNA Nucleotide Count Web App")
 
 st.write("""
 # DNA Nucleotide Count Web App
